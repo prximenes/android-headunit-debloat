@@ -50,7 +50,7 @@ Contribuições com listas de outras centrais são bem-vindas: veja [lists/READM
 
 ## Projeto relacionado
 
-- **EV Home**: um launcher leve, estilo carro elétrico, feito para essas centrais depois do debloat (repositório separado).
+- **EV Home**: um launcher leve, estilo carro elétrico, feito para essas centrais depois do debloat: [prximenes/ev-home-launcher](https://github.com/prximenes/ev-home-launcher).
 
 ## Licença
 
