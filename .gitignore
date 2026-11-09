@@ -1,0 +1,4 @@
+# Backups contêm número de série e dados do aparelho
+backups/
+*.apk
+getprop*.txt

@@ -1,0 +1,31 @@
+# Lote de baixo risco — testado em:
+#   Carloer F9212B · plataforma ac8227l (Autochips/MediaTek AC8227L) · XY Auto · Android 8.1 (SDK 27)
+# Depois da remoção: câmera de ré, rádio, Bluetooth, volante, ZLINK e reinício OK.
+# Confira se cada pacote existe e faz sentido na SUA central antes de usar.
+
+# --- Testes, demos e debug de fábrica
+com.xyauto.android.autotest          # app de teste de fábrica
+com.example.tmedia                   # app de demonstração
+com.mediatek.mtklogger               # logger de debug MediaTek
+com.mediatek.mtklogger.proxy         # logger de debug MediaTek
+com.bumblebee.remindeasy             # lembretes
+
+# --- Google que não se usa no carro
+com.google.android.apps.googleassistant
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.backuptransport
+com.google.android.configupdater
+com.google.android.syncadapters.calendar
+
+# --- Apps de celular sem uso no carro
+com.android.exchange                 # e-mail corporativo
+com.mediatek.calendarimporter
+com.android.soundrecorder
+com.android.htmlviewer
+com.android.bookmarkprovider
+com.android.providers.partnerbookmarks
+com.android.wallpaperbackup
+com.android.sharedstoragebackup
+com.android.companiondevicemanager
+com.android.calculator2

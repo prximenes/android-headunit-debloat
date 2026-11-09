@@ -1,0 +1,42 @@
+# REFERÊNCIA — NÃO use este arquivo com o debloat.sh.
+# Pacotes essenciais em centrais AC8227L / XY Auto. Remover algum deles pode tirar câmera de ré,
+# rádio, Bluetooth, comandos do carro ou o espelhamento.
+
+com.autochips.android.backcar        # câmera de ré e entradas de vídeo
+com.autochips.bluetooth              # telefone e música Bluetooth do carro
+com.autochips.quickbootmanager       # inicialização rápida
+com.android.bluetooth
+com.xyauto.Settings                  # configurações do fabricante e menu de fábrica
+com.xygala.pvcanset                  # CAN bus
+com.xy.tda7729                       # chip de áudio e equalizador
+com.xy.brakecheck                    # trava de vídeo em movimento
+com.xy.lockscreen
+com.xy.zlinkactivationcode           # ativação do ZLINK
+com.zjinnova.zlink                   # Android Auto / CarPlay
+com.kyhero.car.myhost                # espelhamento
+com.kyhero.car.myhost2
+com.williexing.android.apps.xcdvr1   # dash cam
+com.pve.apsbridge
+com.pve.appsetting
+com.pve.installapk
+com.acloud.stub.localradio           # rádio
+com.acloud.stub.localmusic           # música
+com.acloud.stub.video                # vídeo
+com.acloud.stub.extradio
+com.acloud.stub.logoselector         # logo de inicialização
+com.android.fmradio
+com.android.launcher                 # launcher de fábrica: mantenha como reserva mesmo usando outro
+com.mediatek.ygps                    # GPS
+com.mediatek.engineermode
+com.android.systemui
+com.android.settings
+com.android.phone
+com.android.contacts                 # agenda usada pelo Bluetooth
+com.android.providers.contacts
+com.android.providers.settings
+com.android.providers.media
+com.google.android.gms               # outros apps Google dependem dele
+com.google.android.gsf
+com.android.vending
+com.google.android.webview
+com.google.android.inputmethod.latin # teclado

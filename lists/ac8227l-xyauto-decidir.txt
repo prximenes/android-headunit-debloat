@@ -1,0 +1,17 @@
+# Pacotes que dependem do seu uso. Apague desta lista o que você quer MANTER antes de usar.
+# Testado em: Carloer F9212B · ac8227l · Android 8.1
+
+# --- Fábrica
+com.pve.otacheck                     # verificador de OTA: sem ele, a central não recebe atualizações do fabricante
+com.pve.naviguide                    # atalho de navegação de fábrica (pode estar ligado a um botão físico de GPS)
+com.android.gallery3d                # galeria: só remova se não abre fotos pela central
+com.mediatek.gallery.op01            # plugin da galeria
+
+# --- Google Maps antigo de fábrica (no caso real era a 10.18, de 2019, e muito lento)
+com.google.android.apps.maps
+
+# --- Apps de terceiros que costumam vir instalados pelo vendedor
+com.spotify.lite                     # descontinuado pelo Spotify em 2025
+com.waze                             # pesado; prefira navegar pelo celular via Android Auto/CarPlay
+net.osmand                           # travava na GPU Mali-450
+com.softartstudio.carwebguru         # launcher pesado (~1 núcleo inteiro). TROQUE A TELA INICIAL ANTES
