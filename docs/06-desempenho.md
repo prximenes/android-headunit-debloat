@@ -23,7 +23,7 @@ adb shell cmd package set-home-activity com.android.launcher/com.android.launche
 adb shell input keyevent KEYCODE_HOME
 ```
 
-Se o launcher de fábrica for feio demais, o [EV Home](https://github.com/prximenes/ev-home-launcher) foi feito para esse caso: fica em ~0% de CPU parado e usa ~20–25 MB de memória.
+Se o launcher de fábrica for feio demais, o [EV Home](https://github.com/prximenes/ev-home-launcher) foi feito para esse caso: fica em ~0% de CPU parado e usa ~12–25 MB de memória.
 
 ### Apps que voltam sozinhos
 

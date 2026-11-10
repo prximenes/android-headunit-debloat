@@ -1,5 +1,7 @@
 # Listas de pacotes
 
+**Português** · [English](README.en.md)
+
 Formato: **um pacote por linha**. `#` inicia um comentário (a linha inteira ou o fim da linha).
 
 ```text

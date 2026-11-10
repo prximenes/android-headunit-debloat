@@ -1,5 +1,7 @@
 # Debloat de centrais multimídia Android
 
+**Português** · [English](README.en.md)
+
 Guia prático para deixar mais rápida uma central multimídia Android "genérica" (as chinesas vendidas com várias marcas: Carloer, XY Auto, ALPS, Joying, Pumpkin e muitas outras), **sem root**, só com um notebook e um cabo USB.
 
 O guia nasceu de um caso real: uma central **Carloer F9212B** (chip **MediaTek/Autochips AC8227L**, 2 GB de RAM, Android 8.1 que se apresenta como "10"). O resultado lá foi:
